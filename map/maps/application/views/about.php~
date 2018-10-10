@@ -1,0 +1,24 @@
+
+
+<div id="container">
+	<h1>About Campus Maps</h1>
+
+	<div id="body" >
+		<code style="font-family:Arial; width: 35%;">					
+		The ability to rapidly discover individual experts, communities of expertise, 
+		or knowledge artifacts created by experts is an essential task to both an individual or an institution.
+		<br/><br/>
+		Pro-Finder comes in-handy to arrest this situation and provides you with an efficient and effective means of getting in
+		touch with the pros in a particular field of interest
+		<br/><br/>
+		Enjoy profinder...
+		</code>
+
+		<p><a href = "">Share Pro-Finder with a friend!</a></p>
+	</div>
+
+	<p class = "footer">&copy;<strong> CampusMaps 2016. </strong></p>
+</div>
+
+	</body>
+</html>

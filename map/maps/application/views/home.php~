@@ -1,0 +1,20 @@
+
+
+		<div id="container">
+			<h1>Welcome to Campus Maps</h1>
+
+			<div id="body">
+				<p>Welcome...</p>
+
+				<p>Campus Maps allows you to find locations within JKUAT.</p>
+
+				<code>					
+				<p></p>
+				</code>
+			</div>
+
+			<p class = "footer">&copy;<strong> Campus Maps 2016. </strong></p>
+		</div>
+
+	</body>
+</html>

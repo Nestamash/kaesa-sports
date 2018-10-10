@@ -1,0 +1,130 @@
+body {
+		background-color: #0f0;
+		background: url(../photos/mandizi.jpg);
+		margin: 40px;
+		font: 13px/20px normal Helvetica, Arial, sans-serif;
+		color: #CFCFCF;
+	}
+
+#nav {
+	list-style: none;
+	padding: 0;
+	margin: 40px 0 20px 0;
+	background: #00002B url(../images/nav_bar.jpg) repeat-x;
+	background-size: cover;
+	display: block;
+	overflow: hidden;
+	font-size: 12px;
+	height:33px;
+	text-transform:capitalize;
+}
+
+a {color: ;}
+#nav li {
+	display: inline;
+}
+
+#nav li a {
+	display: block;
+	float: right;
+	padding: 10px 20px;
+	color: white;
+	text-decoration: none;
+}
+
+#nav li span {
+	display: block;
+	float: right;
+	padding: 10px 20px;
+	color: white;
+	text-decoration: underline;
+}
+
+#nav li a:hover {
+	background: #1b1b1b url(../images/nav_bar_o.jpg) repeat-x;
+}
+
+	a {
+		color: #00002B;
+		background-color: transparent;
+		text-decoration: none;
+		font-weight: normal;
+	}
+
+	a:hover {
+		text-decoration: underline;
+	}
+
+	h1 {
+		color: #CFCFCF;
+		background-color: transparent;
+		border-bottom: 1px solid #D0D0D0;
+		font-size: 19px;
+		font-weight: normal;
+		margin: 0 0 14px 0;
+		padding: 14px 15px 10px 15px;
+	}
+
+	code {
+		font-family: segoe ui semilight, Consolas, Monaco, Courier New, Courier, monospace;
+		font-size: 13px;
+		background-color: #f9f9f9;
+		border: 1px solid #D0D0D0;
+		color: #002166;
+		display: block;
+		margin: 14px 0 14px 0;
+		padding: 12px 10px 12px 10px;
+	}
+
+	#body {
+		margin: 0 15px 0 15px;
+	}
+
+	p.footer {
+		text-align: right;
+		font-size: 11px;
+		border-top: 1px solid #D0D0D0;
+		line-height: 32px;
+		padding: 0 10px 0 10px;
+		margin: 20px 0 0 0;
+	}
+
+	#container {
+		margin: 10px;
+		border: 1px solid #D0D0D0;
+		box-shadow: 0 0 8px #D0D0D0;
+	}
+
+
+	.error{
+		color: #FF1111;
+		border: 1px solid #FF1111;
+		border-radius: 3px;
+		padding: 3px;
+		background-color: #43FD21;
+		box-shadow: 1px 1px 1px 1px;
+		margin: 1px 2px 4px 1px;
+	}
+
+	.reags_buttons {
+		padding: 11px 8px 11px 8px;
+		border: 1px solid #D0D0D0;
+		border-radius: 6px;
+	}
+
+	.reags_textbox {
+		font-family: Helvetica, Arial, sans-serif;
+		font-size: 13px/20px;
+		font-weight: normal;
+		padding: 7px 10px;
+		border: 1px solid #D0D0D0;
+		border-radius: 5px;
+		width: 280px;
+	}
+	
+.dropbtn
+{
+	text-decoration: underline;
+	cursor:pointer;
+	color: red;
+}
