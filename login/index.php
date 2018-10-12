@@ -1485,8 +1485,9 @@ echo "</div><BR><BR>";
 	<li >
 		<li class='active' ><a href=\"#\">Register Coach</a></li>
 		
-                            <li ><a href=\"http://localhost/kaesa/login/?p=pP10009\">post article</a></li>
-							
+                            <li ><a href=\"http://localhost/kaesa/login/?p=pP10009\">post an article</a></li>
+							<li ><a href=\"http://localhost/kaesa/login/a-module/payment.php?p=
+						
 							
 
 							<li ><a href=\"http://localhost/kaesa/login/a-module/assets/API/logout.a.inc.php\">Logout</a></li>

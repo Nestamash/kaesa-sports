@@ -58,6 +58,7 @@ include ('assets/include/config.inc/config.php');
 
 
                 <li ><a href="http://localhost/kaesa/login/?p=pP10006">Register Coach</a></li>
+                <li ><a href="http://localhost/kaesa/login/?p=pP10009">post an article</a></li>
                 <li ><a href="http://localhost/kaesa/login/a-module/payment.php?p=
 							<?php
                     session_start();
